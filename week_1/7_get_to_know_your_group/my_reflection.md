@@ -20,8 +20,8 @@ Goal.com - I like to watch and play soccer so I use this websites to read the la
 I have a kinesthetic learning style, I learn best through hands on activities such as projects rather than reading books or listening to a lecture. I am also a concrete sequential thinker so that I like to organize information in a linear, step by step manner. I also like to plan my work and work my plan when I was given tasks to do.
 
 These are the links to my reflection file, my webpage, and my wireframe page:
-https://github.com/Williampangestu/phase_0_unit_1/tree/master/week_1/7_get_to_know_your_group
-http://williampangestu.github.io/unit1_projects/dbc2.html
-http://williampangestu.github.io/unit1_projects/wireframe_sites.html
+1. https://github.com/Williampangestu/phase_0_unit_1/blob/master/week_1/7_get_to_know_your_group/my_reflection.md
+2. http://williampangestu.github.io/unit1_projects/dbc2.html
+3. http://williampangestu.github.io/unit1_projects/wireframe_sites.html
 
 I look forward to meeting all of you in Chicago. Best of luck!
