@@ -11,7 +11,7 @@
 
 * I was having trouble understanding the concept of relative and absolute positioning. 
 
-* I definitely learnt how to use relative and absolute positioning to position image inside div and also to put a caption on my picture. The other thing that I learnt is that we can actually use class and id together on the same element. For instance, we can put "<div class="Friends" id="Bestfriend"></div>".
+* I definitely learnt how to use relative and absolute positioning to position image inside div and also to put a caption on my picture. The other thing that I learnt is that we can actually use class and id together on the same element. For instance, we can put div class="Friends" id="Bestfriend"
 
 * I am pretty confident with each of the learning competencies for this challenge, I think I successfully completed all of the challenges.
 
