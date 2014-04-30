@@ -26,6 +26,8 @@
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
 
+* The link to the screenshot of my CodeSchool points is http://postimg.org/image/8eq3qwnwr/
+
 * The tab that supports the realtime editing of HTML and CSS is called "Elements". When we open the Elements panel, the left section is our HTML code and the right section is our CSS code. Whenever we change our HTML or CSS code, we can immediately see the changes on our webpage. 
 * The tab that is used to do Javascript debugging is the "Source" tab. In there, we can see and examine our javascript code by pausing it, set up breakpoints, etc.
 * The tabs that do performance optimization is the "PageSpeed" and "Network" panel. PageSpeed tab, which can downloaded from the chrome webstore is quite useful because it gives us suggestions on how to improve/speed up our webpage. Then, after we did the suggestions, we can see the improvements on the Network tab. It can shows us the difference in the file's size and the time it took to download the file. 
