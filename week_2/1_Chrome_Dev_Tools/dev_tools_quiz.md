@@ -25,3 +25,17 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+
+* The tab that supports the realtime editing of HTML and CSS is called "Elements". When we open the Elements panel, the left section is our HTML code and the right section is our CSS code. Whenever we change our HTML or CSS code, we can immediately see the changes on our webpage. 
+* The tab that is used to do Javascript debugging is the "Source" tab. In there, we can see and examine our javascript code by pausing it, set up breakpoints, etc.
+* The tabs that do performance optimization is the "PageSpeed" and "Network" panel. PageSpeed tab, which can downloaded from the chrome webstore is quite useful because it gives us suggestions on how to improve/speed up our webpage. Then, after we did the suggestions, we can see the improvements on the Network tab. It can shows us the difference in the file's size and the time it took to download the file. 
+
+* The quick key to spawn the Dev Tools Inspector is command + alt + j
+
+* The current background color of the page is #0B0F11. The link to the screenshot of my new postmachina webpage is http://postimg.org/image/4olvk9mob/
+
+* I can't tweak the color of the text "The most important things are not things" because it is not a text, it is actually part of the picture that sets the background of the central div (div with id "main").
+
+* The largest image on the website is the New York City Times Square picture. I found this by first opening the Network tab on Chrome Dev Tools and refreshing the ticketwizard website. After that, I sorted the list of all the files by the size. It showed me that the biggest image is http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png. The file size of this image is 316 kb and the dimension is 500 x 210.
+
+* I am not really sure what it means but I think in order to optimize the website, the lowest hanging fruit would be to optimize the images on the website. By doing so, 885.9 kilobytes of data can be eliminated (39% reduction).
