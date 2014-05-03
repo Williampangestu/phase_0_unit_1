@@ -1,1 +1,117 @@
-/* include your css here */
+        div {
+          border: 2px solid black;
+          border-radius:7px;
+        }
+        
+       #header {
+         background-color: red;
+         height: 100px;
+         width: 70%;
+         position: relative;
+         margin: auto;
+         bottom: 10px;
+         text-align: center;
+       }
+       
+       #sitetitle {
+         font-size: 30px;
+         color: black;
+         font-family: times;
+         position: relative;
+         margin: auto;
+         font-weight: bold;
+         top: 30px;
+       }
+       
+     #nav {
+       	position: absolute;
+         text-align: center;
+         width:70.6%;
+         background-color:green;
+         right:210px;
+       }
+       
+       
+       #nav li {
+         display:inline;
+         list-style-type: none;
+         padding: 5px 10px;
+         background-color: lightblue;
+         margin-right: 7px;
+         border: 2px solid black;
+         border-radius:7px;
+       }
+       
+       #leftsidebar {
+         width: 200px;
+         height: 550px;
+         background-color: yellow;
+         position: absolute;
+       }
+       
+       #rightsidebar {
+         width: 200px;
+         height: 550px;
+         background-color: yellow;
+         position: absolute;
+         right: 8px;
+       }
+       
+       #center{
+        background-color: white;
+        height: 500px;
+        width: 830px;
+        margin: auto;  
+      }
+        
+      body {
+        background-color: gray;
+      }
+      
+      #footer {
+        background-color: black;
+        height: 100px;
+        width: 98.6%;
+        display: block;
+        position: absolute;
+        margin: auto;
+        bottom: 0px;
+        text-align: center;
+        right:8px;
+      }
+      
+      img {
+      	height: 270px;
+      	width: 370px;
+      	position: relative;
+      	float: left;
+      	top: 70px;
+      	left: 15px;
+      }
+
+      h1 {
+      	position: relative;
+      	top: 50px;
+      	left: 15px;
+      }
+      
+   #textbox{
+        position:relative;
+        top: 15px;
+        width: 370px;
+        height: 380px;
+        right: 25px;
+        float: right;
+        text-align: left;
+      }
+      
+   #tips {
+        font-size: 16px;
+        font-weight: bold;
+        font-family: times;
+        text-align: center;
+        
+   }
+      
+
+    
