@@ -3,19 +3,19 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+add command is used to 
 
 #### branch
-<!-- Your defnition here -->
+branch command is used to 
 
 #### checkout
-<!-- Your defnition here -->
+checkout command is used to
 
 #### clone
-<!-- Your defnition here -->
+clone command is used to 
 
 #### commit
-<!-- Your defnition here -->
+commit command is used to 
 
 #### fetch
 <!-- Your defnition here -->
