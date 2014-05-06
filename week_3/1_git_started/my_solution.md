@@ -15,7 +15,7 @@ checkout command is used to
 clone command is used to 
 
 #### commit
-commit command is used to 
+commit command is used to have something
 
 #### fetch
 <!-- Your defnition here -->
