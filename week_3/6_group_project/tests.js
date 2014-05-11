@@ -5,6 +5,29 @@
 oddLengthArray  = [1, 2, 3, 4, 5, 5, 7]
 evenLengthArray = [4, 4, 5, 5, 6, 6, 6, 7]
 
+var sum = function (array){
+  var answer = 0
+  for (var i=0; i < array.length; i++) {
+    answer += array[i] ;}
+    return answer;
+};
+
+var mean = function (array){
+  var answer = 0
+  for (var i=0; i < array.length; i++) {
+    answer += array[i] ;}
+    return answer/array.length;
+};
+
+var median = function (array){
+  array.sort();
+  var middleNum = Math.floor(array.length/2);
+  if (array.length % 2 === 0)
+    return (array[middleNum-1] + array[middleNum]) / 2;
+  else   
+     return array[middleNum];
+};
+
 
 function assert(test, message, test_number) {
   if (!test) {
