@@ -72,10 +72,10 @@ delete terah["eyeColor"];
 
 adam["spouse"] = terah;
 
-terah["children"] = {};
+terah.children = {};
 
-terah["children"]["carson"] = {
-  name: "Carson"
+terah.children.carson = {
+  "Carson"
 };
 
 terah["children"]["carter"] = {
