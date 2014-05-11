@@ -150,12 +150,31 @@ var player = {
     moveDown: function() { this.location.y -= 20 };
     };
 
-// Reflection
+// Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
+// What parts of your strategy worked? What problems did you face?
+// Planning and pseudocoding our mission. We had some problems on figuring out how to test some of our code.
+//
+// What questions did you have while coding? What resources did you find to help you answer them?
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// We had some questions about how and when we can use 'this' on our method. We eventually got the answers for our questions
+// by asking and looking at other people's code. 
+//
+// Did you learn any new skills or tricks?
+// Not really, I wanted to learn how to integrate HTML, CSS, and Javascript together, but unfortunately we ran out of time.
+//
+// How confident are you with each of the Learning Competencies?
+// I am pretty confident with each of them.
+//
+// Which parts of the challenge did you enjoy?
+// Planning and pseudocoding our mission.
+//
+// Which parts of the challenge did you find tedious?
+// None.
+
+
+
+
+
+
+
